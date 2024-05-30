@@ -1,0 +1,58 @@
+= Welcome to GitHub Copilot
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/4d1a3834-92cc-4a0a-3056-1d776aae9e00/public[title="ExitCertified Logo"]
+
+The world of technology is constantly changing, giving us the power to break new ground, connect more meaningfully and change the world for the better. This rapid pace of change rewards the people and organizations that can keep pace with it. We understand that progress is enabled by knowledge. 
+
+That’s why we’re dedicated to upskilling and reskilling individuals, teams, organizations and governments to be ready for what’s next.
+
+== Schedule
+
+=== Class Times
+
+* Friday: Noon to 3 pm ET
+
+=== Breaks
+
+* Afternoon: 1:30 pm to 1:45 pm ET
+
+== Outline Summary
+
+* Welcome
+* Copilot Overview
+* Using Copilot in the IDE
+* Using Copilot Chat in the IDE
+* Experience the Intuitive Nature of Copilot Chat
+** Explore a "new" language
+** Explore and configure build tools
+** Explore unit testing
+** Explore source control
+* Use Copilot In-Editor Suggestions
+* Copilot Chat Beyond Programming
+** VSCode
+** Terminal
+* Prompts and Suggestions
+* X-Shot Prompting
+* Refactoring Code with Copilot
+* Fix Source Code Problems
+* Questions and Answers
+* Conclusion
+
+== Courseware
+
+* link:https://github-copilot-for-programmers.t4p.dev[Course Content]
+
+== License
+
+We provide the content in this repository for the class participants under the following link:./LICENSE[license]. GitHub provides the course slide deck and is not for redistribution. Atmosera provides the course outline and is not for redistribution. Cloud Contraptions LLC and its subsidiaries offer the remaining course content, which is not for redistribution.
+
+++++
+<br><br>
+Course content and teaching is provided by:
+<br><br>
+++++
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/aff3f165-00ec-4130-83d3-7ff4744f7d00/h=50,sharpen=1[link="https://www.cloudcontraptions.com",title="Cloud Contraptions Logo"]
+
+image:https://imagedelivery.net/VKawrzTPdVOU6XYN26Rvmg/1d56b364-4858-4cc6-84d5-89e14ce8e100/h=50,sharpen=1[link="https://www.training4programmers.com",title="Training 4 Programmers Logo"]
+
